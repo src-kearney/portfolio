@@ -26,10 +26,10 @@ function Home(props) {
                 <Jumbotron className="bg-transparent">
                 <h1 style={{padding: "20px 20px 20px 20px", textAlign: "center"}}>Languages</h1>
                 <ProgressBar label={"Java"} variant="success" animated now={92} style={progressStyle} />
-                <ProgressBar label={"C"} variant="danger" animated now={85} style={progressStyle} />
-                <ProgressBar label={"Python"} variant="dark" animated now={83} style={progressStyle} />
-                <ProgressBar label={"JavaScript"} variant="info" animated now={78} style={progressStyle} />
-                <ProgressBar label={"Golang"} variant="secondary" animated now={70} style={progressStyle} />
+                <ProgressBar label={"C"} variant="danger" animated now={88} style={progressStyle} />
+                <ProgressBar label={"Python"} variant="dark" animated now={87} style={progressStyle} />
+                <ProgressBar label={"JavaScript"} variant="info" animated now={84} style={progressStyle} />
+                <ProgressBar label={"Golang"} variant="secondary" animated now={80} style={progressStyle} />
                 <ProgressBar label={"SQL"} variant="primary" animated now={85} style={progressStyle} />
                 <ProgressBar label={"HTML / CSS"} variant="dark" animated now={90} style={progressStyle} />
                 </Jumbotron>

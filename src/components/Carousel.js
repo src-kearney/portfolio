@@ -31,7 +31,7 @@ class Carousel extends React.Component {
                 {
                     id: 2,
                     title: 'MusicPrescription',
-                    subTitle: 'Ever wondered what critics think of your music taste? Implemented with Flask, Node.js, and React with help from the Spotify API.',
+                    subTitle: 'Spotify music recommendation app. Implemented with Flask, Node.js, and React.',
                     imgSrc: photo3,
                     link: 'https://musicprescription.herokuapp.com/',
                     selected: false,
